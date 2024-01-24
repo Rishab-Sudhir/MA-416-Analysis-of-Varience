@@ -96,3 +96,4 @@ framevalues <- c(Amean, Gmean, med, range, sd)
 dataFrame3 <- data.frame(Metric = frametitles,
                          MetricValues = round(framevalues,3))
 dataFrame3
+
